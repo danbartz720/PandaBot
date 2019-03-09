@@ -3,8 +3,8 @@ const Discord = require('discord.js')
 //const client = new Discord.Client()
 const client = new Discord.Client({ partials: ['MESSAGE', 'CHANNEL'] });
 const fs = require("fs");
-const adminUsername = 'dan720';
-const allowedChannelID = "551457203635224629";
+const adminUsername = 'Riz';
+const allowedChannelID = "552679725269647370";
 // Dan Test Channel: "551457203635224629"
 // PandaPoints Channel: "552679725269647370"
 
